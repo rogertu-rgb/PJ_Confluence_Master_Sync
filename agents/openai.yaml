@@ -1,0 +1,7 @@
+interface:
+  display_name: "PJ Confluence Master Sync"
+  short_description: "Sync Confluence modules into draft master files"
+  default_prompt: "Use $pj-confluence-master-sync to check module updates, write the merged result to Draft Master Copy only, or query the project's Action Log."
+
+policy:
+  allow_implicit_invocation: true
